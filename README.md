@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
