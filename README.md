@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2418-sort-the-people](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
@@ -52,4 +54,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
