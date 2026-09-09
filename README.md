@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/2418-sort-the-people) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0704-binary-search) |
@@ -35,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [2418-sort-the-people](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -73,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
