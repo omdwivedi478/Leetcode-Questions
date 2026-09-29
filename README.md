@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
+| [1748-sum-of-unique-elements](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/2418-sort-the-people) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0704-binary-search) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/2418-sort-the-people) |
 ## Binary Search
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
