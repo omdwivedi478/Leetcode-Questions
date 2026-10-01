@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0409-longest-palindrome](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/2418-sort-the-people) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
