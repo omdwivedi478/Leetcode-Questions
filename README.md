@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Quicksort
 |  |
 | ------- |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
