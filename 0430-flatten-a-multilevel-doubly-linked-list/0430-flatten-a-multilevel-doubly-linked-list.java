@@ -7,7 +7,7 @@ class Solution {
                 Node n = temp.next;
                 temp.next = temp.child;
                 temp.child.prev = temp;
-                Node x = temp.child;
+                Node x = temp.next;
                 while(x.next!=null){
                     x = x.next;
                 }
