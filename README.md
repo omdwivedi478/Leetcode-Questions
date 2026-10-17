@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0707-design-linked-list) |
 ## Depth-First Search
 |  |
@@ -130,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
