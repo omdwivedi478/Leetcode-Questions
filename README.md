@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
@@ -139,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
