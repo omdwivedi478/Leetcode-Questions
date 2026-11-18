@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0100-same-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -168,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/omdwivedi478/Leetcode-Questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
